@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.azcentral.com/community/mesa/articles/20140130meatball-pound-cat-dropped-off-mesa-shelter-abrk.html",
+        "article_headline": "Meatball, a 36-pound cat, dropped off at Mesa shelter",
+        "article_desc": "The 4-year-old domestic shorthaired lives in an office and relieves himself in a Rubbermaid under-bed storage container because, at 36 pounds, he’s too large for a normal cat’s accommodations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.83258056640625,
+          33.41539481578249
+        ]
+      }
+    }
+  ]
+}
