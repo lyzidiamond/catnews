@@ -1,7 +1,7 @@
 // initialize map
 var map = L.mapbox.map('cat-map', 'codeforamerica.h6ihl7do').setView([37.770986,-122.446457], 13);
 
-/*var cat = L.icon({
+var cat = L.icon({
   iconUrl: './cat.png',
   iconSize: [25, 25]
 });
@@ -20,4 +20,4 @@ $.getJSON('./catnews.geojson', function(data) {
   });
   locations.addTo(map);
   map.fitBounds(locations.getBounds(), {reset: true});
-}); */
+});
