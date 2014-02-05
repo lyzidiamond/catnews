@@ -9,6 +9,11 @@ var cat = L.icon({
 function onEachFeature(feature, layer) {
   var popupContent = "<strong><a href='" + feature.properties.article_link + "'>" + feature.properties.article_headline +"</a></strong><br>" + feature.properties.article_desc;
   layer.bindPopup(popupContent);
+  layer.on({
+    click: function(e) {
+      map.fitBounds(e.target.getBounds(), {reset: true});
+    };
+  });
 };
 
 $.getJSON('./catnews.geojson', function(data) {
