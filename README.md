@@ -12,10 +12,7 @@ Follow these easy steps!
 1. If you don't have it yet, download the [geojson.io Chrome Extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp?hl=en-US). If you're not using Chrome, see directions below.
 2. Fork this repo.
 3. Click over to the catnews.geojson file in your fork.
-4. Click the geojson.io button that appears.
-
-![geojson.io](http://i.cloudup.com/d6Z9dko1gr.png)
-
+4. Click the geojson.io button that is now above the map.
 5. Pan/zoom the map to wherever the news article is from, approximately.
 6. Click the map marker icon in the left column and place a point on the map.
 7. Fill in each of the fields: link, headline, description, date. Please keep the description to one sentence.
