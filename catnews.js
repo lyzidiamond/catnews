@@ -2,7 +2,7 @@
 var map = L.mapbox.map('cat-map', 'codeforamerica.h6ihl7do').setView([37.770986,-122.446457], 13);
 
 var cat = L.icon({
-  iconUrl: '/cat.png',
+  iconUrl: './cat.png',
   iconSize: [25, 25]
 });
 
