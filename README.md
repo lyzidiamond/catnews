@@ -18,7 +18,7 @@ Follow these easy steps!
 
 5. Pan/zoom the map to wherever the news article is from, approximately.
 6. Click the map marker icon in the left column and place a point on the map.
-7. Fill in each of the fields: link, headline, description. Please keep the description to one sentence.
+7. Fill in each of the fields: link, headline, description, date. Please keep the description to one sentence.
 8. When you're done, push the Save button at the top.
 9. Make a pull request and I'll merge it.
 10. See your article added to the map at [CatNews](http://lyzidiamond.com/catnews)!
