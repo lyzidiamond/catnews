@@ -1,5 +1,5 @@
 // initialize map
-var map = L.mapbox.map('cat-map', 'codeforamerica.h6ihl7do', {maxZoom: 10, minZoom: 4}).setView([39.639538,-98.99231], 4);
+var map = L.mapbox.map('cat-map', 'codeforamerica.h6ihl7do', {maxZoom: 8, minZoom: 4}).setView([39.639538,-98.99231], 4);
 
 var cat = L.icon({
   iconUrl: './cat.png',
