@@ -3,7 +3,7 @@ var map = L.mapbox.map('cat-map', 'codeforamerica.h6ihl7do').setView([37.770986,
 
 var cat = L.icon({
   iconUrl: './cat.png',
-  iconSize: [50, 50]
+  iconSize: [35, 35]
 });
 
 function onEachFeature(feature, layer) {
