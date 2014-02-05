@@ -21,5 +21,5 @@ $.getJSON('catnews.geojson', function(data) {
     onEachFeature: onEachFeature
   });
   locations.addTo(map);
-  map.fitBounds(locations.getBounds(), {reset: true});
+  //map.fitBounds(locations.getBounds(), {reset: true});
 });
