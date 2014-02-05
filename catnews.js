@@ -20,4 +20,4 @@ $.getJSON('./catnews.geojson', function(data) {
   });
   locations.addTo(map);
   map.fitBounds(locations.getBounds(), {reset: true});
-});
+}); */
