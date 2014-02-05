@@ -32,6 +32,14 @@ That's fine. You just have different instructions.
 6. Click through until you get to catnews.geojson.
 7. Follow instructions above starting at step 5.
 
+## Planned Improvements
+
+- Moving from manual GeoJSON additions to a Google form -> Google spreadsheet -> tabletop.js -> geojson mode.
+- Making it look not crappy.
+- Getting zoom to feature on click to work correctly.
+- Marker clustering.
+- Pan bounds.
+
 ## Questions / Comments / Feedback
 
 Bring it on! Make a pull request! Open an issue! I am particularly crappy at design, so if anyone wants to make it look pretty, go ahead. If you're unfamiliar with GitHub's functionality and wish to email me directly, I'm lyzi@codeforamerica.org or [@lyzidiamond](http://twitter.com/lyzidiamond) on Twitter.
