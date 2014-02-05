@@ -7,7 +7,7 @@ var cat = L.icon({
 });
 
 function onEachFeature(feature, layer) {
-  var popupContent = "<a href='" + feature.properties.article_link + "'>" + feature.properties.article_headline +"</a><br>" + feature.properties.article_desc;
+  var popupContent = "<a href='" + feature.properties.article_link + "'>" + feature.properties.article_headline +"</a><br><em>" + feature.properties.article_date + "</em><br>" + feature.properties.article_desc;
   layer.bindPopup(popupContent);
   layer.on('click', function(e) {
     map.fitBounds(feature.getBounds(), {reset:true});
