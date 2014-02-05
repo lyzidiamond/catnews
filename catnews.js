@@ -13,7 +13,7 @@ function onEachFeature(feature, layer) {
 
 var locations;
 
-$.getJSON('catnews.geojson', function(data) {
+$.getJSON('./catnews.geojson', function(data) {
   var locations = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: cat});
@@ -21,5 +21,5 @@ $.getJSON('catnews.geojson', function(data) {
     onEachFeature: onEachFeature
   });
   locations.addTo(map);
-  //map.fitBounds(locations.getBounds(), {reset: true});
+  map.fitBounds(locations.getBounds(), {reset: true});
 });
