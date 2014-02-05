@@ -11,8 +11,6 @@ function onEachFeature(feature, layer) {
   layer.bindPopup(popupContent);
 };
 
-var locations;
-
 $.getJSON('./catnews.geojson', function(data) {
   var locations = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
