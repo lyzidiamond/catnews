@@ -16,6 +16,22 @@
           33.41539481578249
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://nymag.com/daily/intelligencer/2013/08/subway-cats-kittens-train-shut-down-b-q-lines.html",
+        "article_headline": "Is It Worth Shutting Down Two Train Lines to Save a Couple of Kittens?",
+        "article_desc": "What is the life of a cat worth? The MTA faced this vexing philosophical question earlier today when two tiny kittens — it's unknown whether they were strays or pets, but nobody in the vicinity seemed to own them — were spotted scurrying around on the tracks at the Church Avenue B/Q stop in Prospect Lefferts Gardens.",
+        "article_date": "8/29/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96300792694092,
+          40.650486355731786
+        ]
+      }
     }
   ]
 }
