@@ -48,6 +48,22 @@
           53.342353115548796
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/worlds-oldest-cat-newry-puss-tutti-frutti-gets-the-red-carpet-treatment-for-her-24th-birthday-30691331.html",
+        "article_headline": "World's oldest cat, Newry puss Tutti Frutti, gets the red carpet treatment for her 24th birthday",
+        "article_desc": "Tutti Frutti, the oldest cat in the world, has just celebrated her 24th birthday in style.",
+        "article_date": "11/25/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.340484619140625,
+          54.176904287355114
+        ]
+      }
     }
   ]
 }
