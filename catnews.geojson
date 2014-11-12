@@ -38,7 +38,8 @@
       "properties": {
         "article_link": "http://www.theguardian.com/world/video/2012/jun/05/catcopter-dutch-artist-amsterdam-video",
         "article_headline": "Catcopter: Dutch artist turns his dead pet into a helicopter",
-        "article_desc": "The Dutch artist Bart Jansen makes his dead cat Orville fly, after having him stuffed and mounting propellers to his legs."
+        "article_desc": "The Dutch artist Bart Jansen makes his dead cat Orville fly, after having him stuffed and mounting propellers to his legs.",
+        "article_date": "6/4/2012"
       },
       "geometry": {
         "type": "Point",
