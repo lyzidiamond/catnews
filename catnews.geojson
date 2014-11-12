@@ -36,16 +36,32 @@
     {
       "type": "Feature",
       "properties": {
-        "Link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
-        "Headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
-        "Description": "Robo-Mice Keep Cats From Napping",
-        "Date": "11/10/14"
+        "article_link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
+        "article_headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
+        "article_desc": "Robo-Mice Keep Cats From Napping",
+        "article_date": "11/10/14"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -85.078125,
           58.81374171570782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.sciencedaily.com/releases/2014/10/141021125943.htm",
+        "article_headline": "Predicting the predator threatening a squirrel by analyzing its sounds and tail movements",
+        "article_desc": "Science, tails and predictions",
+        "article_date": "10/21/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10406494140625,
+          26.374184774339668
         ]
       }
     }
