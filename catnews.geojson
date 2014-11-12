@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.nydailynews.com/new-york/nyc-crime/accused-brooklyn-cat-kicker-lawyer-injuries-unproven-article-1.2006036",
+        "article_headline": "Accused Brooklyn cat-kicker’s lawyer says animal unproven to have been hurt",
+        "article_desc": "Cat punter",
+        "article_date": " November 10, 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.30078125,
+          40.713955826286046
+        ]
+      }
     }
   ]
 }
