@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.washingtonpost.com/blogs/early-lead/wp/2014/11/11/grumpy-cat-set-to-guest-star-on-wwe-raw-to-promote-new-lifetime-christmas-movie/",
+        "article_headline": "Grumpy Cat set to guest star on WWE ‘Raw’ to promote new Lifetime Christmas movie",
+        "article_desc": "Grumpy Cat Will be a Guest Star of WWE",
+        "article_date": "11/11/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93841171264648,
+          37.282453190074555
+        ]
+      }
     }
   ]
 }
