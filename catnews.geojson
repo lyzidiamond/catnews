@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.independent.ie/irish-news/video-cat-overcomes-predatory-instincts-to-nurse-ducklings-29291970.html",
+        "article_headline": "Cat overcomes predatory instincts to nurse ducklings",
+        "article_desc": "NORMALLY, a fluffy yellow duckling might prove merely a tempting delicacy to a hungry cat.",
+        "article_date": "5/23/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.613868713378906,
+          53.342353115548796
+        ]
+      }
     }
   ]
 }
