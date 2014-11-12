@@ -36,6 +36,22 @@
     {
       "type": "Feature",
       "properties": {
+        "article_link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
+        "article_headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
+        "article_desc": "Robo-Mice Keep Cats From Napping",
+        "article_date": "11/10/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.078125,
+          58.81374171570782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "article_link": "http://www.washingtonpost.com/blogs/early-lead/wp/2014/11/11/grumpy-cat-set-to-guest-star-on-wwe-raw-to-promote-new-lifetime-christmas-movie/",
         "article_headline": "Grumpy Cat set to guest star on WWE ‘Raw’ to promote new Lifetime Christmas movie",
         "article_desc": "Grumpy Cat Will be a Guest Star of WWE",
@@ -46,6 +62,38 @@
         "coordinates": [
           -79.93841171264648,
           37.282453190074555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.sciencedaily.com/releases/2014/10/141021125943.htm",
+        "article_headline": "Predicting the predator threatening a squirrel by analyzing its sounds and tail movements",
+        "article_desc": "Science, tails and predictions",
+        "article_date": "10/21/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10406494140625,
+          26.374184774339668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.oregonlive.com/pets/index.ssf/2014/11/portland_designer_launches_cro.html",
+        "article_headline": "Portland designer launches crowdfunding campaign to fund modern cat scratching post",
+        "article_desc": "Portland designer James Owen recently launched a Kickstarter campaign that will enable him to develop what sounds paradoxical: a cat scratching post with panache.  Owen, who designs consumer items ranging from furniture to footwear, likes to emphasize both form and function in the products he creates.    So it would make sense that his inspiration for a modern-looking cat scratching post came from his own cat, which he and his wife have owned for about 10 years. As they acquired more feline accoutrements, Owen couldn't help but look at the cat products from a designer's perspective.",
+        "article_date": "10/11/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63214111328125,
+          45.508271755944975
         ]
       }
     }
