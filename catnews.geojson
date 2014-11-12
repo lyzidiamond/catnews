@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.sciencedaily.com/releases/2014/10/141021125943.htm",
+        "article_headline": "Predicting the predator threatening a squirrel by analyzing its sounds and tail movements",
+        "article_desc": "Science, tails and predictions",
+        "article_date": "10/21/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10406494140625,
+          26.374184774339668
+        ]
+      }
     }
   ]
 }
