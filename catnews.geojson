@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
+        "Headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
+        "Description": "Robo-Mice Keep Cats From Napping",
+        "Date": "11/10/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.078125,
+          58.81374171570782
+        ]
+      }
     }
   ]
 }
