@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.nydailynews.com/life-style/u-s-cat-cafe-opens-oakland-article-1.1990485",
+        "article_headline": "The cat’s meow: Feline-friendly cafe opens in San Francisco Bay area",
+        "article_desc": "Oakland, Calif., is now home to the Cat Town Cafe & Adoption Center, the first permanent cat cafe in the U.S.",
+        "article_date": "10/28/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27474212646483,
+          37.80354511753136
+        ]
+      }
     }
   ]
 }
