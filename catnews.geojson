@@ -35,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "article_link": "http://metro.co.uk/2013/11/12/scottish-spca-make-appeal-after-unexplained-disappearance-of-cats-in-howgill-4184070/",
+        "article_headline": "Scottish SPCA make appeal after unexplained disappearance of cats in Howgill",
+        "article_desc": "A Scottish animal welfare charity is appealing for information after seven cats went missing in the Howgill area of Annan.",
+        "article_date": "11/12/2013"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
