@@ -99,6 +99,22 @@
     {
       "type": "Feature",
       "properties": {
+        "article_link": "http://metro.co.uk/2013/11/12/scottish-spca-make-appeal-after-unexplained-disappearance-of-cats-in-howgill-4184070/",
+        "article_headline": "Scottish SPCA make appeal after unexplained disappearance of cats in Howgill",
+        "article_desc": "A Scottish animal welfare charity is appealing for information after seven cats went missing in the Howgill area of Annan.",
+        "article_date": "11/12/2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.559814453125,
+          57.058656606677616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "article_link": "http://www.oregonlive.com/pets/index.ssf/2014/11/portland_designer_launches_cro.html",
         "article_headline": "Portland designer launches crowdfunding campaign to fund modern cat scratching post",
         "article_desc": "Portland designer James Owen recently launched a Kickstarter campaign that will enable him to develop what sounds paradoxical: a cat scratching post with panache.  Owen, who designs consumer items ranging from furniture to footwear, likes to emphasize both form and function in the products he creates.    So it would make sense that his inspiration for a modern-looking cat scratching post came from his own cat, which he and his wife have owned for about 10 years. As they acquired more feline accoutrements, Owen couldn't help but look at the cat products from a designer's perspective.",
