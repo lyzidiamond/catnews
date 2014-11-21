@@ -32,6 +32,22 @@
           40.650486355731786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "article_link": "http://www.gazettextra.com/20141110/janesville_backs_off_on_stray_cat_cuts",
+        "article_headline": "Janesville backs off on stray cat cuts",
+        "article_desc": "Planned cuts to the Humane Society have been dropped. Stray cats will still be taken in by the city and adoption services will not be cut",
+        "article_date": "11/10/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99200439453125,
+          42.718263627309774
+        ]
+      }
     }
   ]
 }
