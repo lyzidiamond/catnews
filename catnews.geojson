@@ -67,6 +67,22 @@
     {
       "type": "Feature",
       "properties": {
+        "article_link": "http://www.theguardian.com/world/video/2012/jun/05/catcopter-dutch-artist-amsterdam-video",
+        "article_headline": "Catcopter: Dutch artist turns his dead pet into a helicopter",
+        "article_desc": "The Dutch artist Bart Jansen makes his dead cat Orville fly, after having him stuffed and mounting propellers to his legs.",
+        "article_date": "6/4/2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893234372138977,
+          52.36959099429829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "article_link": "http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/worlds-oldest-cat-newry-puss-tutti-frutti-gets-the-red-carpet-treatment-for-her-24th-birthday-30691331.html",
         "article_headline": "World's oldest cat, Newry puss Tutti Frutti, gets the red carpet treatment for her 24th birthday",
         "article_desc": "Tutti Frutti, the oldest cat in the world, has just celebrated her 24th birthday in style.",
@@ -173,6 +189,10 @@
         "coordinates": [
           -122.63214111328125,
           45.508271755944975
+=======
+          4.893234372138977,
+          52.36959099429829
+>>>>>>> 9f587722803d980e1d72903ffadb7b73f0834e38
         ]
       }
     }
