@@ -1,233 +1,228 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.azcentral.com/community/mesa/articles/20140130meatball-pound-cat-dropped-off-mesa-shelter-abrk.html",
-        "article_headline": "Meatball, a 36-pound cat, dropped off at Mesa shelter",
-        "article_desc": "The 4-year-old domestic shorthaired lives in an office and relieves himself in a Rubbermaid under-bed storage container because, at 36 pounds, he’s too large for a normal cat’s accommodations.",
-        "article_date": "1/30/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.83258056640625,
-          33.41539481578249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://nymag.com/daily/intelligencer/2013/08/subway-cats-kittens-train-shut-down-b-q-lines.html",
-        "article_headline": "Is It Worth Shutting Down Two Train Lines to Save a Couple of Kittens?",
-        "article_desc": "What is the life of a cat worth? The MTA faced this vexing philosophical question earlier today when two tiny kittens — it's unknown whether they were strays or pets, but nobody in the vicinity seemed to own them — were spotted scurrying around on the tracks at the Church Avenue B/Q stop in Prospect Lefferts Gardens.",
-        "article_date": "8/29/2013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.96300792694092,
-          40.650486355731786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-<<<<<<< HEAD
-        "article_link": "http://www.independent.ie/irish-news/video-cat-overcomes-predatory-instincts-to-nurse-ducklings-29291970.html",
-        "article_headline": "Cat overcomes predatory instincts to nurse ducklings",
-        "article_desc": "NORMALLY, a fluffy yellow duckling might prove merely a tempting delicacy to a hungry cat.",
-        "article_date": "5/23/2013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.613868713378906,
-          53.342353115548796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.nydailynews.com/new-york/nyc-crime/accused-brooklyn-cat-kicker-lawyer-injuries-unproven-article-1.2006036",
-        "article_headline": "Accused Brooklyn cat-kicker’s lawyer says animal unproven to have been hurt",
-        "article_desc": "Cat punter",
-        "article_date": " November 10, 2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.30078125,
-          40.713955826286046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.gazettextra.com/20141110/janesville_backs_off_on_stray_cat_cuts",
-        "article_headline": "Janesville backs off on stray cat cuts",
-        "article_desc": "Planned cuts to the Humane Society have been dropped. Stray cats will still be taken in by the city and adoption services will not be cut",
-        "article_date": "11/10/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.99200439453125,
-          42.718263627309774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://fox8.com/2014/11/11/you-could-have-it-and-not-even-know-it-an-untreatable-disease-relating-to-cats/",
-        "article_headline": "TEST",
-        "article_desc": "TEST"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.51171875,
-          46.86019101567027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.theguardian.com/world/video/2012/jun/05/catcopter-dutch-artist-amsterdam-video",
-        "article_headline": "Catcopter: Dutch artist turns his dead pet into a helicopter",
-        "article_desc": "The Dutch artist Bart Jansen makes his dead cat Orville fly, after having him stuffed and mounting propellers to his legs.",
-        "article_date": "6/4/2012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.893234372138977,
-          52.36959099429829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/worlds-oldest-cat-newry-puss-tutti-frutti-gets-the-red-carpet-treatment-for-her-24th-birthday-30691331.html",
-        "article_headline": "World's oldest cat, Newry puss Tutti Frutti, gets the red carpet treatment for her 24th birthday",
-        "article_desc": "Tutti Frutti, the oldest cat in the world, has just celebrated her 24th birthday in style.",
-        "article_date": "11/25/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.340484619140625,
-          54.176904287355114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.nydailynews.com/life-style/u-s-cat-cafe-opens-oakland-article-1.1990485",
-        "article_headline": "The cat’s meow: Feline-friendly cafe opens in San Francisco Bay area",
-        "article_desc": "Oakland, Calif., is now home to the Cat Town Cafe & Adoption Center, the first permanent cat cafe in the U.S.",
-        "article_date": "10/28/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.27474212646483,
-          37.80354511753136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
-        "article_headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
-        "article_desc": "Robo-Mice Keep Cats From Napping",
-        "article_date": "11/10/14"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.078125,
-          58.81374171570782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.washingtonpost.com/blogs/early-lead/wp/2014/11/11/grumpy-cat-set-to-guest-star-on-wwe-raw-to-promote-new-lifetime-christmas-movie/",
-        "article_headline": "Grumpy Cat set to guest star on WWE ‘Raw’ to promote new Lifetime Christmas movie",
-        "article_desc": "Grumpy Cat Will be a Guest Star of WWE",
-        "article_date": "11/11/14"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93841171264648,
-          37.282453190074555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.sciencedaily.com/releases/2014/10/141021125943.htm",
-        "article_headline": "Predicting the predator threatening a squirrel by analyzing its sounds and tail movements",
-        "article_desc": "Science, tails and predictions",
-        "article_date": "10/21/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.10406494140625,
-          26.374184774339668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://metro.co.uk/2013/11/12/scottish-spca-make-appeal-after-unexplained-disappearance-of-cats-in-howgill-4184070/",
-        "article_headline": "Scottish SPCA make appeal after unexplained disappearance of cats in Howgill",
-        "article_desc": "A Scottish animal welfare charity is appealing for information after seven cats went missing in the Howgill area of Annan.",
-        "article_date": "11/12/2013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.559814453125,
-          57.058656606677616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "article_link": "http://www.oregonlive.com/pets/index.ssf/2014/11/portland_designer_launches_cro.html",
-        "article_headline": "Portland designer launches crowdfunding campaign to fund modern cat scratching post",
-        "article_desc": "Portland designer James Owen recently launched a Kickstarter campaign that will enable him to develop what sounds paradoxical: a cat scratching post with panache.  Owen, who designs consumer items ranging from furniture to footwear, likes to emphasize both form and function in the products he creates.    So it would make sense that his inspiration for a modern-looking cat scratching post came from his own cat, which he and his wife have owned for about 10 years. As they acquired more feline accoutrements, Owen couldn't help but look at the cat products from a designer's perspective.",
-        "article_date": "10/11/2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.63214111328125,
-          45.508271755944975
-=======
-          -88.99200439453125,
-          42.718263627309774
->>>>>>> 38e82a349d343d5ade45bcb361cddf02eb7f0b3b
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.azcentral.com/community/mesa/articles/20140130meatball-pound-cat-dropped-off-mesa-shelter-abrk.html",
+                "article_headline": "Meatball, a 36-pound cat, dropped off at Mesa shelter",
+                "article_desc": "The 4-year-old domestic shorthaired lives in an office and relieves himself in a Rubbermaid under-bed storage container because, at 36 pounds, he’s too large for a normal cat’s accommodations.",
+                "article_date": "1/30/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.83258056640625,
+                    33.41539481578249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://nymag.com/daily/intelligencer/2013/08/subway-cats-kittens-train-shut-down-b-q-lines.html",
+                "article_headline": "Is It Worth Shutting Down Two Train Lines to Save a Couple of Kittens?",
+                "article_desc": "What is the life of a cat worth? The MTA faced this vexing philosophical question earlier today when two tiny kittens — it's unknown whether they were strays or pets, but nobody in the vicinity seemed to own them — were spotted scurrying around on the tracks at the Church Avenue B/Q stop in Prospect Lefferts Gardens.",
+                "article_date": "8/29/2013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96300792694092,
+                    40.650486355731786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.independent.ie/irish-news/video-cat-overcomes-predatory-instincts-to-nurse-ducklings-29291970.html",
+                "article_headline": "Cat overcomes predatory instincts to nurse ducklings",
+                "article_desc": "NORMALLY, a fluffy yellow duckling might prove merely a tempting delicacy to a hungry cat.",
+                "article_date": "5/23/2013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.613868713378906,
+                    53.342353115548796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.nydailynews.com/new-york/nyc-crime/accused-brooklyn-cat-kicker-lawyer-injuries-unproven-article-1.2006036",
+                "article_headline": "Accused Brooklyn cat-kicker’s lawyer says animal unproven to have been hurt",
+                "article_desc": "Cat punter",
+                "article_date": " November 10, 2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.30078125,
+                    40.713955826286046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.gazettextra.com/20141110/janesville_backs_off_on_stray_cat_cuts",
+                "article_headline": "Janesville backs off on stray cat cuts",
+                "article_desc": "Planned cuts to the Humane Society have been dropped. Stray cats will still be taken in by the city and adoption services will not be cut",
+                "article_date": "11/10/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.99200439453125,
+                    42.718263627309774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://fox8.com/2014/11/11/you-could-have-it-and-not-even-know-it-an-untreatable-disease-relating-to-cats/",
+                "article_headline": "TEST",
+                "article_desc": "TEST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.51171875,
+                    46.86019101567027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.theguardian.com/world/video/2012/jun/05/catcopter-dutch-artist-amsterdam-video",
+                "article_headline": "Catcopter: Dutch artist turns his dead pet into a helicopter",
+                "article_desc": "The Dutch artist Bart Jansen makes his dead cat Orville fly, after having him stuffed and mounting propellers to his legs.",
+                "article_date": "6/4/2012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893234372138977,
+                    52.36959099429829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/worlds-oldest-cat-newry-puss-tutti-frutti-gets-the-red-carpet-treatment-for-her-24th-birthday-30691331.html",
+                "article_headline": "World's oldest cat, Newry puss Tutti Frutti, gets the red carpet treatment for her 24th birthday",
+                "article_desc": "Tutti Frutti, the oldest cat in the world, has just celebrated her 24th birthday in style.",
+                "article_date": "11/25/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.340484619140625,
+                    54.176904287355114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.nydailynews.com/life-style/u-s-cat-cafe-opens-oakland-article-1.1990485",
+                "article_headline": "The cat’s meow: Feline-friendly cafe opens in San Francisco Bay area",
+                "article_desc": "Oakland, Calif., is now home to the Cat Town Cafe & Adoption Center, the first permanent cat cafe in the U.S.",
+                "article_date": "10/28/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27474212646483,
+                    37.80354511753136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.cnet.com/news/buy-your-cat-a-robot-mousr-acts-like-real-prey/",
+                "article_headline": "Buy Your Cat a Robot: Mousr Acts Like Real Prey",
+                "article_desc": "Robo-Mice Keep Cats From Napping",
+                "article_date": "11/10/14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.078125,
+                    58.81374171570782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.washingtonpost.com/blogs/early-lead/wp/2014/11/11/grumpy-cat-set-to-guest-star-on-wwe-raw-to-promote-new-lifetime-christmas-movie/",
+                "article_headline": "Grumpy Cat set to guest star on WWE ‘Raw’ to promote new Lifetime Christmas movie",
+                "article_desc": "Grumpy Cat Will be a Guest Star of WWE",
+                "article_date": "11/11/14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.93841171264648,
+                    37.282453190074555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.sciencedaily.com/releases/2014/10/141021125943.htm",
+                "article_headline": "Predicting the predator threatening a squirrel by analyzing its sounds and tail movements",
+                "article_desc": "Science, tails and predictions",
+                "article_date": "10/21/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.10406494140625,
+                    26.374184774339668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://metro.co.uk/2013/11/12/scottish-spca-make-appeal-after-unexplained-disappearance-of-cats-in-howgill-4184070/",
+                "article_headline": "Scottish SPCA make appeal after unexplained disappearance of cats in Howgill",
+                "article_desc": "A Scottish animal welfare charity is appealing for information after seven cats went missing in the Howgill area of Annan.",
+                "article_date": "11/12/2013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.559814453125,
+                    57.058656606677616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "article_link": "http://www.oregonlive.com/pets/index.ssf/2014/11/portland_designer_launches_cro.html",
+                "article_headline": "Portland designer launches crowdfunding campaign to fund modern cat scratching post",
+                "article_desc": "Portland designer James Owen recently launched a Kickstarter campaign that will enable him to develop what sounds paradoxical: a cat scratching post with panache.  Owen, who designs consumer items ranging from furniture to footwear, likes to emphasize both form and function in the products he creates.    So it would make sense that his inspiration for a modern-looking cat scratching post came from his own cat, which he and his wife have owned for about 10 years. As they acquired more feline accoutrements, Owen couldn't help but look at the cat products from a designer's perspective.",
+                "article_date": "10/11/2014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63214111328125,
+                    45.508271755944975
+                ]
+            }
+        }
+    ]
 }
